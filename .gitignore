@@ -3,5 +3,3 @@ target
 test-output
 .classpath
 .project
-pom.xml
-testng.xml
